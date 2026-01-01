@@ -1,0 +1,33 @@
+body {
+    font-family: Arial;
+    background-color: lightblue;
+    text-align: center;
+    padding-top: 50px;
+}
+
+h1 {
+    color: darkblue;
+}
+
+input {
+    width: 300px;
+    padding: 10px;
+    margin: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: blue;
+    color: white;
+    border: none;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px;
+    font-size: 18px;
+}
